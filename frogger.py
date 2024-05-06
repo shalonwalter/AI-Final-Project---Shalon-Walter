@@ -87,8 +87,6 @@ class Frog(Object):
 
 
     def moveFrog(self,key_pressed, key_up):
-        #Tem que fazer o if das bordas da tela ainda
-        #O movimento na horizontal ainda não ta certin
         if self.animation_counter == 0 :
             self.updateSprite(key_pressed)
         self.incAnimationCounter()
