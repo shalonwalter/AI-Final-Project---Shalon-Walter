@@ -7,7 +7,7 @@ This Python program implements a simplified version of the classic game Frogger,
 ## Features 
 
 Population of Frogs: The program simulates a population of frogs, each controlled by an AI algorithm.
-Genetic Algorithm: The frogs' AI behavior is optimized using a genetic algorithm, where the fittest frogs from each generation are selected to produce offspring for the next generation.
+Generating Algorithm: The frogs' AI behavior is optimized using a generating algorithm, where the fittest frogs from each generation are selected to produce offspring for the next generation.
 AI Movement Integration: The program integrates AI movement using Q-learning, where the frogs learn to navigate the environment based on rewards and penalties associated with their actions.
 Obstacle Avoidance: The frogs must avoid colliding with moving cars and falling into the river by jumping on logs or turtles.
 
