@@ -29,3 +29,9 @@ Pygame library
 To run the program just start the Python script by running `python froggerAIfinal.py` or the equivalent command in your system.
 
 The rest of the codes are just trials based on another set of frogger assets that I found publically available the final code is the froggerAIfinal.py
+
+## Sources
+
+Assets sources for the trial codes  https://github.com/vitalius/Frogger.git
+Game code source for the final code https://github.com/jgubert/frogger.git
+Generating algorithm code for frog source https://github.com/json-tian/Frogger-AI.git
